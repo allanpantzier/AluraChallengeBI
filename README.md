@@ -51,9 +51,8 @@ Este desafio durará 4 semanas divididas em 3 projetos de empresas fictícias qu
       <li> Configurar o relatório para que atualize todo dia útil às 9 horas da manhã</li>
     </ol>
  </p>
-![git_image_dash_01](https://user-images.githubusercontent.com/89219460/133663314-adcbedee-4413-4abf-bc05-57c6722529ad.png)
-![git_image_dash_02](https://user-images.githubusercontent.com/89219460/133663415-c6e082f0-55e3-4526-a5b1-cd28bac92c7c.png)
-![git_image_dash_03](https://user-images.githubusercontent.com/89219460/133663445-6a5aa844-74df-4b9d-9f2c-d7ba18c3074e.png)
+![git_image_dash_01_shop](https://user-images.githubusercontent.com/89219460/133663806-f0b4e648-4641-442f-ab8a-b7033ec5febf.png)
+
 
 
 
