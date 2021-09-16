@@ -1,9 +1,9 @@
 <h1 align="left"> Alura Challenges BI </h1>
 <div align="left"> O desafio consiste em desenvolver competências em Business Inteligence e colocar em prática todo o conhecimento adquirido para a criação de Dashboards utilizando ferramentas de BI. <br>
-Este desafio está durará 4 semanas divididas em 3 projetos de empresas que nos contrataram para entender suas bases de dados e exibir informações relevantes com o objetivo de auxiliar suas tomadas de decisão.</div>
+Este desafio durará 4 semanas divididas em 3 projetos de empresas fictícias que desejam entender suas bases de dados e exibir informações relevantes com o objetivo de auxiliar suas tomadas de decisão.</div>
 <br>
 <h2> Sobre as empresas </h2>
-  <p> Três empresas nos contrataram para entender suas bases de dados e exibir informações relevantes com o objetivo de auxiliar suas tomadas de decisão. </p>
+  <p> Três empresas desejam entender suas bases de dados e exibir informações relevantes com o objetivo de auxiliar suas tomadas de decisão. </p>
 
   <p> <b>Conceitos e técnicas de BI</b> serão utilizados para desenvolver um dashboard para uma das empresas. </p>
   <p>
@@ -31,6 +31,29 @@ Este desafio está durará 4 semanas divididas em 3 projetos de empresas que nos
  
 ![git_image_dash_01](https://user-images.githubusercontent.com/89219460/133655983-0fadfed3-124a-4737-9609-61ec80bc9178.png)
 ![git_image_dash_02](https://user-images.githubusercontent.com/89219460/133656464-061ed459-d2eb-4d4b-8187-3e7701e001f1.png)
+
+  <h3> Semana 2</h3>
+  <p> A Alura Shop <b>investiu</b> em publicidade para se destacar no mercado, e a gerência da empresa tem dúvidas se o retorno dessa propaganda <b>surtiu efeito</b>.
+
+  A nossa missão é apoiar a gerência em suas <b>tomadas de decisão</b>, e elucidar as dúvidas. Para isso desenvolveremos um dashboard estratégico de marketing com o objetivo de monitorar uma campanha de publicidade paga durante o mês de julho de 2021. Apresentaremos <b>indicadores relevantes</b> para a validação estratégica do negócio.
+</p>
+<p>
+     <ol>
+      <li> Calcular o total de compras </li>
+      <li> Calcular o total de valor convertido em compras </li>
+      <li> Mostrar o total do valor investido na campanha</li>
+      <li> Calcular o custo por clique</li>
+      <li> Exibir a jornada de compra</li>
+      <li> Calcular a taxa de conversão</li>
+      <li> Mostrar o ticket médio por dispositivo</li>
+      <li> Mostrar Retorno do investimento em publicidade (ROAS) por idade e gênero</li>
+      <li> Calcular o valor convertido em compras por dia</li>
+      <li> Configurar o relatório para que atualize todo dia útil às 9 horas da manhã</li>
+    </ol>
+ </p>
+![git_image_dash_01](https://user-images.githubusercontent.com/89219460/133663314-adcbedee-4413-4abf-bc05-57c6722529ad.png)
+![git_image_dash_02](https://user-images.githubusercontent.com/89219460/133663415-c6e082f0-55e3-4526-a5b1-cd28bac92c7c.png)
+![git_image_dash_03](https://user-images.githubusercontent.com/89219460/133663445-6a5aa844-74df-4b9d-9f2c-d7ba18c3074e.png)
 
 
 
