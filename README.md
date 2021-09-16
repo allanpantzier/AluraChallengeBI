@@ -29,8 +29,8 @@ Este desafio durará 4 semanas divididas em 3 projetos de empresas fictícias qu
     </ol>
  </p>
  
-![git_image_dash_01](https://user-images.githubusercontent.com/89219460/133655983-0fadfed3-124a-4737-9609-61ec80bc9178.png)
-![git_image_dash_02](https://user-images.githubusercontent.com/89219460/133656464-061ed459-d2eb-4d4b-8187-3e7701e001f1.png)
+<p>![git_image_dash_01](https://user-images.githubusercontent.com/89219460/133655983-0fadfed3-124a-4737-9609-61ec80bc9178.png)
+![git_image_dash_02](https://user-images.githubusercontent.com/89219460/133656464-061ed459-d2eb-4d4b-8187-3e7701e001f1.png)</p>
 
   <h3> Semana 2</h3>
   <p> A Alura Shop <b>investiu</b> em publicidade para se destacar no mercado, e a gerência da empresa tem dúvidas se o retorno dessa propaganda <b>surtiu efeito</b>.
@@ -51,7 +51,7 @@ Este desafio durará 4 semanas divididas em 3 projetos de empresas fictícias qu
       <li> Configurar o relatório para que atualize todo dia útil às 9 horas da manhã</li>
     </ol>
  </p>
-![git_image_dash_01_shop](https://user-images.githubusercontent.com/89219460/133663806-f0b4e648-4641-442f-ab8a-b7033ec5febf.png)
+<p>![git_image_dash_01_shop](https://user-images.githubusercontent.com/89219460/133663806-f0b4e648-4641-442f-ab8a-b7033ec5febf.png)</p>
 
 
 
