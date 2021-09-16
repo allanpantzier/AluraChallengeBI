@@ -9,7 +9,7 @@ Este desafio está durará 4 semanas divididas em 3 projetos de empresas que nos
   <p>
     <ol>
       <li> A primeira empresa, <b>Alura Log</b>, necessita analisar dados sobre a <b>Logística</b> de entregas do seu negócio. </li> <a href="https://app.powerbi.com/view?r=eyJrIjoiZDE5ZDkzZjItYTEzOS00OTUwLTg0MGItNjdlOTdiYjg5NDNmIiwidCI6IjRmYmUwOTk5LTcxNTQtNDVjOC1hYWJhLTQ3NzBiYTZjM2RmMSJ9&pageName=ReportSection" target="_blank"> Vizualizar Dashboard </a> 
-      <li> A segunda empresa, <b>Alura Shop</b>, precisa de um dashboard para monitorar a campanha de <b>Marketing</b> durante um mês. </li>
+      <li> A segunda empresa, <b>Alura Shop</b>, precisa de um dashboard para monitorar a campanha de <b>Marketing</b> durante um mês. </li><a href="https://app.powerbi.com/view?r=eyJrIjoiNDcyZTI4MTEtOGM0Yi00MmM2LTg5NDgtYzQ2YmRiMWEyZmY3IiwidCI6IjRmYmUwOTk5LTcxNTQtNDVjOC1hYWJhLTQ3NzBiYTZjM2RmMSJ9&pageName=ReportSection3acb1640c63bbe22ab3c" target="_blank"> Vizualizar Dashboard </a> 
       <li> A terceira empresa, <b>Alura Store</b>, precisa entender como anda a sua área <b>Financeira</b>, pensando em <b>hipóteses</b>. </li>
     </ol>
   </p>
