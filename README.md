@@ -1,11 +1,36 @@
-Alura Challenge BI
+<h1 align="left"> Alura Challenges BI </h1>
+<div align="left"> O desafio consiste em desenvolver competências em Business Inteligence e colocar em prática todo o conhecimento adquirido para a criação de Dashboards utilizando ferramentas de BI. <br>
+Este desafio está durará 4 semanas divididas em 3 projetos de empresas que nos contrataram para entender suas bases de dados e exibir informações relevantes com o objetivo de auxiliar suas tomadas de decisão.</div>
+<br>
+<h2> Sobre as empresas </h2>
+  <p> Três empresas nos contrataram para entender suas bases de dados e exibir informações relevantes com o objetivo de auxiliar suas tomadas de decisão. </p>
 
-Três empresas nos contrataram para entender suas bases de dados e exibir informações relevantes com o objetivo de auxiliar suas tomadas de decisão.
+  <p> <b>Conceitos e técnicas de BI</b> serão utilizados para desenvolver um dashboard para uma das empresas. </p>
+  <p>
+    <ol>
+      <li> A primeira empresa, <b>Alura Log</b>, necessita analisar dados sobre a <b>Logística</b> de entregas do seu negócio. </li> <a href="https://app.powerbi.com/view?r=eyJrIjoiZDE5ZDkzZjItYTEzOS00OTUwLTg0MGItNjdlOTdiYjg5NDNmIiwidCI6IjRmYmUwOTk5LTcxNTQtNDVjOC1hYWJhLTQ3NzBiYTZjM2RmMSJ9&pageName=ReportSection" target="_blank"> Vizualizar Dashboard </a> 
+      <li> A segunda empresa, <b>Alura Shop</b>, precisa de um dashboard para monitorar a campanha de <b>Marketing</b> durante um mês. </li>
+      <li> A terceira empresa, <b>Alura Store</b>, precisa entender como anda a sua área <b>Financeira</b>, pensando em <b>hipóteses</b>. </li>
+    </ol>
+  </p>
+<br>
+<h2> Estudos de caso </h2>
 
-Conceitos e técnicas de BI serão utilizados para desenvolver um dashboard para uma das empresas.
+  <h3> Semana 1 </h3>
+  <p> A pessoa que gerencia a área de <i><b>logística</b></i> da <b>Alura Log</b>, está enfrentando algumas mudanças em sua área por conta do aumento da demanda dos serviços de logística no período da pandemia. Ela quer <i><b>manter a qualidade</b></i> de seu serviço, mas para isso precisa <i><b>acompanhar constantemente as métricas</b></i> do seu departamento para <i><b>tomar as melhores decisões</b></i>. Quando nos contou isso, analisamos que para auxiliar nesse desafio precisaremos fazer um <i><b>dashboard para logística</b></i>. Para isso, vamos visualizar algumas métricas muito importantes para a área. </p>
+<p>
+     <ol>
+      <li> Visualizar quantas entregas foram feitas no prazo </li>
+      <li> Visualizar quantas entregas foram feitas atrasadas </li>
+      <li> Mostrar o número de veículos disponíveis</li>
+      <li> Calcular o S2D - Ship to door - expedição até a entrega, medido em dias</li>
+         <li> Mostrar o índice de ocorrências por estado</li>
+         <li> Visualizar o nível médio de estoque por ano</li>      
+    </ol>
+ </p>
+ 
+![git_image_dash_01](https://user-images.githubusercontent.com/89219460/133655983-0fadfed3-124a-4737-9609-61ec80bc9178.png)
+![git_image_dash_02](https://user-images.githubusercontent.com/89219460/133656464-061ed459-d2eb-4d4b-8187-3e7701e001f1.png)
 
-A primeira empresa, Alura Log, necessita analisar dados sobre a logística de entregas do seu negócio.
-A segunda empresa, Alura Shop, precisa de um dashboard para monitorar a campanha de marketing durante um mês.
-A terceira empresa, Alura Store, precisa entender como anda a sua área financeira, pensando em hipóteses.
 
-Por fim, focaremos no embelezamento de cada um dos dashboards com a finalidade de desenvolver um portfólio. Para isso, entenderemos como utilizar o github e aprenderemos como desenvolver um currículo bem diferente utilizando ferramentas de BI.
+
