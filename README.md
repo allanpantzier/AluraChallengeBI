@@ -132,8 +132,14 @@ Este desafio durará 4 semanas divididas em 3 projetos de empresas fictícias qu
       <li> Desenvolver uma Análise de Cenários para simulação</li>
      </ol>
  </p>
- ![dash_alura_store_01](https://user-images.githubusercontent.com/89219460/134577397-041be7a1-8d84-4669-aa30-6af196de7409.png)
-![dash_alura_store_02](https://user-images.githubusercontent.com/89219460/134577418-6997d7e6-03d3-4cf5-8900-182cce28b001.png)
-![dash_alura_store_03](https://user-images.githubusercontent.com/89219460/134577451-5ae6efea-7b06-497d-88ad-5f0df442af9e.png)
+ 
+ 
+ 
+![dash_alura_store_01](https://user-images.githubusercontent.com/89219460/134578210-8764d8de-10e0-4e0a-882a-20513ef005e2.png)
+![dash_alura_store_02](https://user-images.githubusercontent.com/89219460/134578464-89a44121-938e-471e-ad1f-fdf81956dd99.png)
+![dash_alura_store_03](https://user-images.githubusercontent.com/89219460/134578470-6bfb7676-0801-470c-99cc-b3653332c2a0.png)
+
+
+
 
  
