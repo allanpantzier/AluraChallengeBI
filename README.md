@@ -98,4 +98,42 @@ Este desafio durará 4 semanas divididas em 3 projetos de empresas fictícias qu
 ![git_image_dash_02_shop](https://user-images.githubusercontent.com/89219460/133665326-d883a05c-274e-4a6d-a705-1561525edc6e.png)
 ![git_image_dash_03_shop](https://user-images.githubusercontent.com/89219460/133665386-bb219574-f959-457f-a193-119f23237917.png)
 
+<h3> Semana 3</h3>
+  <p> O responsável financeiro da Alura Store disponibilizou um banco de dados da área financeira para realizarmos análises e verificarmos qual a receita e quais os custos, despesas e lucros com o objetivo de ajudá-los a tomarem decisões. Solicitou que desenvolvessemos também um simulador de cenários para verificar qual o resultado a partir de incrementos percentuais nos valores de custos, quantidade e valor unitário dos produtos.
+</p>
+<h3>Base de Dados</h3>
+<p>A base de dados consiste em um banco de dados no MySQL com a seguinte estrutura:</p>
 
+<ul>
+<li>Tabela Pedidos
+<li>Tabela Produtos
+<li>Tabela Vendedores
+<li>Tabela Notas Fiscais
+</ul>
+
+<h3>Ferramenta Utilizada no Projeto</h3>
+<p>Foi utilizado o Power BI para o desenvolvimento do Dashboard</p>
+
+
+<h3>Tratamento dos Dados</h3>
+<p>Foram realizados diversos tratamentos de dados no Power Query, dentre eles: Ajustes de preço do produto, valor de frete, valor do imposto e valor dos pedidos, Ajustes na tipagem dos dados, Ajustes na formatação dos nomes de vendedores, datas e categorias. </p>
+
+<h3>Métricas</h3>
+
+
+<p>
+     <ol>
+      <li> Calcular a Receita Operacional </li>
+      <li> Calcular o Lucro Líquido </li>
+      <li> Calcular os Custos Operacionais</li>
+      <li> Calcular as Despesas Operacionais</li>
+      <li> Analisar as métricas mensalmente</li>
+      <li> Analisar as métricas anualmente</li>
+      <li> Desenvolver uma Análise de Cenários para simulação</li>
+     </ol>
+ </p>
+ ![dash_alura_store_01](https://user-images.githubusercontent.com/89219460/134577397-041be7a1-8d84-4669-aa30-6af196de7409.png)
+![dash_alura_store_02](https://user-images.githubusercontent.com/89219460/134577418-6997d7e6-03d3-4cf5-8900-182cce28b001.png)
+![dash_alura_store_03](https://user-images.githubusercontent.com/89219460/134577451-5ae6efea-7b06-497d-88ad-5f0df442af9e.png)
+
+ 
