@@ -8,9 +8,9 @@ Este desafio durará 4 semanas divididas em 3 projetos de empresas fictícias qu
   <p> <b>Conceitos e técnicas de BI</b> serão utilizados para desenvolver um dashboard para uma das empresas. </p>
   <p>
     <ol>
-      <li> A primeira empresa, <b>Alura Log</b>, necessita analisar dados sobre a <b>Logística</b> de entregas do seu negócio. </li> <a href="https://app.powerbi.com/view?r=eyJrIjoiZDE5ZDkzZjItYTEzOS00OTUwLTg0MGItNjdlOTdiYjg5NDNmIiwidCI6IjRmYmUwOTk5LTcxNTQtNDVjOC1hYWJhLTQ3NzBiYTZjM2RmMSJ9&pageName=ReportSection" target="_blank"> Visualizar Dashboard </a> 
-      <li> A segunda empresa, <b>Alura Shop</b>, precisa de um dashboard para monitorar a campanha de <b>Marketing</b> durante um mês. </li><a href="https://app.powerbi.com/view?r=eyJrIjoiNDcyZTI4MTEtOGM0Yi00MmM2LTg5NDgtYzQ2YmRiMWEyZmY3IiwidCI6IjRmYmUwOTk5LTcxNTQtNDVjOC1hYWJhLTQ3NzBiYTZjM2RmMSJ9&pageName=ReportSection3acb1640c63bbe22ab3c" target="_blank"> Visualizar Dashboard </a> 
-      <li> A terceira empresa, <b>Alura Store</b>, precisa entender como anda a sua área <b>Financeira</b>, pensando em <b>hipóteses</b>. </li><a href="https://app.powerbi.com/view?r=eyJrIjoiZDk5Mzg4ODMtMTM5Ny00NzE1LTkwMTAtZDkyZjEzODkwZTVmIiwidCI6IjRmYmUwOTk5LTcxNTQtNDVjOC1hYWJhLTQ3NzBiYTZjM2RmMSJ9"> Visualizar Dashboard</a>
+      <li> A primeira empresa, <b>Alura Log</b>, necessita analisar dados sobre a <b>Logística</b> de entregas do seu negócio. </li> <a href="https://app.powerbi.com/view?r=eyJrIjoiYTExZmRjYzQtODczOC00OWEzLWE3NTUtMjhlODA1MDlmMzRkIiwidCI6IjgxM2Q2YTc4LWNhZDUtNDNmYy05Y2QyLTU0M2Q0ZjU3MTdmZiJ9" target="_blank"> Visualizar Dashboard </a> 
+      <li> A segunda empresa, <b>Alura Shop</b>, precisa de um dashboard para monitorar a campanha de <b>Marketing</b> durante um mês. </li><a href="https://app.powerbi.com/view?r=eyJrIjoiNjNlMmI3ZGItMTc0Zi00MmI2LWE0NjAtZGU0ZDFjODQ3YjI5IiwidCI6IjgxM2Q2YTc4LWNhZDUtNDNmYy05Y2QyLTU0M2Q0ZjU3MTdmZiJ9" target="_blank"> Visualizar Dashboard </a> 
+      <li> A terceira empresa, <b>Alura Store</b>, precisa entender como anda a sua área <b>Financeira</b>, pensando em <b>hipóteses</b>. </li><a href="https://app.powerbi.com/view?r=eyJrIjoiODI5NjNmMDQtM2E4OS00NjIxLThlODMtYTcxNDYxOWUxMjc2IiwidCI6IjgxM2Q2YTc4LWNhZDUtNDNmYy05Y2QyLTU0M2Q0ZjU3MTdmZiJ9"> Visualizar Dashboard</a>
     </ol>
   </p>
 <br>
